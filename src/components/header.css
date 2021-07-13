@@ -1,0 +1,16 @@
+.heading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heading-title {
+    margin: 20px;
+}
+
+.underline {
+    width: 300px;
+    height: 5px;
+    background-color: purple;
+    border-radius: 50%;
+}
